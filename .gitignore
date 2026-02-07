@@ -1,0 +1,20 @@
+# Ignore all generated data
+data/*
+
+# But keep folder structure
+!data/raw/.gitkeep
+!data/artifacts/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# Ollama
+.ollama/
