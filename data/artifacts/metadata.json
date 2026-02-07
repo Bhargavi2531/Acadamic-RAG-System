@@ -1,0 +1,70 @@
+[
+  {
+    "id": "chunk_000000",
+    "source_file": "02-OS-review.pdf"
+  },
+  {
+    "id": "chunk_000001",
+    "source_file": "02-OS-review.pdf"
+  },
+  {
+    "id": "chunk_000002",
+    "source_file": "02-OS-review.pdf"
+  },
+  {
+    "id": "chunk_000003",
+    "source_file": "02-OS-review.pdf"
+  },
+  {
+    "id": "chunk_000004",
+    "source_file": "02-OS-review.pdf"
+  },
+  {
+    "id": "chunk_000005",
+    "source_file": "02-OS-review.pdf"
+  },
+  {
+    "id": "chunk_000006",
+    "source_file": "03-vmm.pdf"
+  },
+  {
+    "id": "chunk_000007",
+    "source_file": "03-vmm.pdf"
+  },
+  {
+    "id": "chunk_000008",
+    "source_file": "03-vmm.pdf"
+  },
+  {
+    "id": "chunk_000009",
+    "source_file": "03-vmm.pdf"
+  },
+  {
+    "id": "chunk_000010",
+    "source_file": "04-hwvirt-kvmqemu.pdf"
+  },
+  {
+    "id": "chunk_000011",
+    "source_file": "04-hwvirt-kvmqemu.pdf"
+  },
+  {
+    "id": "chunk_000012",
+    "source_file": "04-hwvirt-kvmqemu.pdf"
+  },
+  {
+    "id": "chunk_000013",
+    "source_file": "04-hwvirt-kvmqemu.pdf"
+  },
+  {
+    "id": "chunk_000014",
+    "source_file": "05-fullvirt.pdf"
+  },
+  {
+    "id": "chunk_000015",
+    "source_file": "05-fullvirt.pdf"
+  },
+  {
+    "id": "chunk_000016",
+    "source_file": "05-fullvirt.pdf"
+  }
+]
